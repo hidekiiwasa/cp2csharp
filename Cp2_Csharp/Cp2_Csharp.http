@@ -1,0 +1,6 @@
+@Cp2_Csharp_HostAddress = http://localhost:5130
+
+GET {{Cp2_Csharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
