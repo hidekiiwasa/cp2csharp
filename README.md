@@ -1,5 +1,5 @@
-#Felipe Hideki Iwasa - Rm98323
-#Enzo Vasconcelos - Rm550702
+## Felipe Hideki Iwasa - Rm98323
+## Enzo Vasconcelos - Rm550702
 
 Passo 1: Configuração do Banco de Dados Oracle
 
